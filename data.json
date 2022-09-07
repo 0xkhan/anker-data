@@ -1,6 +1,8 @@
 {
     "name": "Khani",
 
+    "profilePic": "https://ankerdata.netlify.app/profile-img.jpg",
+
     "links": {
         "Anker GitHub": "https://github.com/ankerapp",
         "Anker Website": "https://getanker.org/",
