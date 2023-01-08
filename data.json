@@ -3,22 +3,58 @@
 
     "profilePic": "https://ankerdata.netlify.app/profile-img-logo-only.png",
 
-    "links": {
-        "Anker GitHub": "https://github.com/ankerapp",
-        "Anker Website": "https://getanker.org/",
-        "Anker Themes": "https://getanker.org/themes",
-        "Sparky By Anker": "https://getanker.org/sparky",
-        "Follow Anker on Twitter": "https://twitter.com/getankerapp",
-        "Encite Inc": "https://enciteinc.com",
-        "My Protfolio": "https://portfolyio.com"
-    },
+    "links": [
+        {
+            "title": "Anker GitHub",
+            "link": "https://github.com/ankerapp"
+        },
+        {
+            "title":"Anker Website",
+            "link": "https://getanker.org/"
+        },
+        {
+            "title": "Anker Themes",
+            "link": "https://getanker.org/themes"
+        },
+        {
+            "title": "Sparky By Anker",
+            "link": "https://getanker.org/sparky"
+        },
+        {
+            "title": "Follow Anker on Twitter",
+            "link": "https://twitter.com/getankerapp"
+        },
+        {
+            "title": "Encite Inc",
+            "link": "https://enciteinc.com"
+        },
+        {
+            "title": "My Protfolio",
+            "link": "https://portfolyio.com"
+        }
+    ],
 
-    "social": {
-        "github": "https://github.com/0xkhan",
-        "dribbble": "https://dribbble.com/0xkhani",
-        "twitter": "https://twitter.com/0xkhani",
-        "instagram": "https://instagram.com/0xkhani",
-        "tiktok": "https://tiktok.com/@0xkhani"
-    }
+    "socials": [
+        {
+            "title": "github",
+            "link": "https://github.com/0xkhan"
+        },
+        {
+            "title": "dribbble",
+            "link": "https://dribbble.com/0xkhani"
+        },
+        {
+            "title": "twitter",
+            "link": "https://twitter.com/0xkhani"
+        },
+        {
+            "title": "instagram",
+            "link": "https://instagram.com/0xkhani"
+        },
+        {
+            "title": "tiktok",
+            "link": "https://tiktok.com/@0xkhani"
+        }
+    ]
 }
 
