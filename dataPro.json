@@ -1,0 +1,66 @@
+{
+    "name": "Anker",
+
+    "profilePic": "https://ankerdata.netlify.app/profile-img-logo-only.png",
+
+    "links": [
+        {
+            "title": "Anker GitHub",
+            "link": "https://github.com/ankerapp"
+        },
+        {
+            "title":"Anker Website",
+            "link": "https://getanker.org/"
+        },
+        {
+            "title": "Anker Themes",
+            "link": "https://getanker.org/themes"
+        },
+        {
+            "title": "Sparky By Anker",
+            "link": "https://getanker.org/sparky"
+        },
+        {
+            "title": "New Version Feature",
+            "link": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+            "type": "dropdown",
+            "app": "youtube"
+        },
+        {
+            "title": "Follow Anker on Twitter",
+            "link": "https://twitter.com/getankerapp"
+        },
+        {
+            "title": "Encite Inc",
+            "link": "https://enciteinc.com"
+        },
+        {
+            "title": "My Protfolio",
+            "link": "https://portfolyio.com"
+        }
+    ],
+
+    "socials": [
+        {
+            "title": "github",
+            "link": "https://github.com/0xkhan"
+        },
+        {
+            "title": "dribbble",
+            "link": "https://dribbble.com/0xkhani"
+        },
+        {
+            "title": "twitter",
+            "link": "https://twitter.com/0xkhani"
+        },
+        {
+            "title": "instagram",
+            "link": "https://instagram.com/0xkhani"
+        },
+        {
+            "title": "tiktok",
+            "link": "https://tiktok.com/@0xkhani"
+        }
+    ]
+}
+
